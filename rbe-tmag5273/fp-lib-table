@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "TMAG5273A2QDBVR") (type "KiCad") (uri "${KIPRJMOD}/library/footprints/TMAG5273A2QDBVR.pretty") (options "") (descr ""))
+)
